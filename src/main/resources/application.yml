@@ -1,0 +1,8 @@
+  spring:
+    application:
+    name: mvn demo
+  server:
+    port: 9090
+  greetig:
+    es: "Preguntate si lo que estas haciendo hoy te acerca al lugar en el que quieres estas mañana?"
+    en: "Ask yourself if what you are doing today takes you to the place where you want you to be tomorrow?"
